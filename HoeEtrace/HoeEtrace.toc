@@ -1,0 +1,6 @@
+## Interface: 20501
+## Title: Titan - HoeEtrace
+## Notes: Titan Panel plugin that shows your movement speed.
+## Dependencies: TitanClassic
+## Version: 1.3.2.20501
+HoeEtrace.lua
